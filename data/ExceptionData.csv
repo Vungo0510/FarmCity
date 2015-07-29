@@ -1,0 +1,12 @@
+Key/Message
+InvalidFile/There are missing files in the application! The application will now terminate.
+InvalidUser/This user account does not exist!
+InvalidPassword/You have entered an invalid password!
+PlayerRegistered/This username has already been taken!
+InvalidString/Please ensure that you input only alphanumeric characters for your Username, Full Name and Password contain only !
+PasswordMismatch/Please ensure that your passwords match!
+UnableWrite/Something went wrong. Unable to save data!
+SameUser/You cannot send a friend request to yourself!
+LackOfGold/Insufficient Gold.
+Friend/This user is already your friend!
+Request/This user has already sent you a friend request! Accept the request!
